@@ -12,6 +12,6 @@
 | **TryHackMe** | https://tryhackme.com/p/25155558?tab=completed-rooms |
 | **LinkedIn** | www.linkedin.com/in/rajdeep-gan2541 |
 
-| 👁️Vision |
+## 👁️Vision 
 | --------------- |
 | This repository showcases my beginner-level Cybersecurity projects and practical experiments performed using Kali Linux. It includes hands-on labs in network scanning, vulnerability analysis, ethical hacking fundamentals, and system security concepts.Currently pursuing my technical journey at KIIT, I am continuously exploring cybersecurity tools and strengthening my practical knowledge. |
